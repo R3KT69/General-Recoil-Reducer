@@ -1,6 +1,6 @@
 # General-Recoil-Reducer
 Reduces Recoil of certain weapon, in many games.
-
+Usage: Run main.exe, then hold mouse 1.
 
 
 ![image](https://github.com/user-attachments/assets/e5ae439b-b7a7-4f8e-a719-3f9dbaa0ba56)
